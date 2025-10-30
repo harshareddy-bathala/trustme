@@ -13,7 +13,7 @@ A minimal jumpscare website with a simple "Trust Me" button that triggers a surp
 
 ## 🚀 Live Demo
 
-Visit: [https://harshareddy-bathala.github.io/trustme/](https://harshareddy-bathala.github.io/trustme/)
+Visit: [https://trust-me.netlify.app/](https://trust-me.netlify.app/)
 
 ## 📱 How to Use
 
